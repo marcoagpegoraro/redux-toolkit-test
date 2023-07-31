@@ -1,3 +1,6 @@
+![Application demo](https://github.com/marcoagpegoraro/redux-toolkit-test/blob/main/public/demo.png?raw=true)
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
