@@ -1,5 +1,8 @@
+# React + Redux toolkit POC
+
 ![Application demo](https://github.com/marcoagpegoraro/redux-toolkit-test/blob/main/public/demo.png?raw=true)
 
+This is a POC that i made to test React with Redux
 
 # React + Vite
 
