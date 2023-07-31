@@ -1,0 +1,38 @@
+body{
+    background-color: #44475a;
+    color: white;
+    font-family: 'Roboto';
+}
+
+.content{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.logos{    
+    display: flex;
+    align-items: center;
+}
+
+.image-logo{
+    width: 200px;
+    margin: 10px;
+}
+
+.component-test{
+    background-color: #282a36;
+    width: 300px;
+    height: 300px;
+    margin: 15px;
+    padding: 15px;
+    border-radius: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+input{
+    width: 100%;
+}
